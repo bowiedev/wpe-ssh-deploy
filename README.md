@@ -1,11 +1,11 @@
-# github-action-template
+# wpengine-ssh-deploy
 
 [![Continuous Integration](https://github.com/ergebnis/github-action-template/workflows/Continuous%20Integration/badge.svg)](https://github.com/ergebnis/github-action-template/actions)
 [![Continuous Deployment](https://github.com/ergebnis/github-action-template/workflows/Continuous%20Deployment/badge.svg)](https://github.com/ergebnis/github-action-template/actions)
 
 ## What does this action do?
 
-:bulb: This is a great place for showing what this action does.
+This Action is to deploy your WordPress Code to WP Engine via the SSH Gateway. This provides greater optionality in what you can deploy, how you can injest changes and be more complex in your workflow. c
 
 ## Usage
 
